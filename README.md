@@ -5,6 +5,8 @@ Its features include:
 •Multiply
 •Subtract
 •Divide.
+
+
 Built With HTML CSS and javascript.
 
 This is the link to the live Demo: https://amankumarknp.github.io/Simple_Calculator/
